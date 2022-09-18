@@ -1,0 +1,1 @@
+INSERT INTO LogsAPI(inputs, BeginTime, EndTime, ProcessingTimer) VALUES (?,?,?,?)
